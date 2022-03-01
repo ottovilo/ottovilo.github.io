@@ -1,7 +1,8 @@
 
 ## Tervetuloa
 
-Täältä sivulta löydät lisätietoja minusta ja [Web-CV](https://ottovilo.github.io/)
+[Täältä sivulta](https://ottovilo.github.io/) löydät lisätietoja minusta ja ansioluettelostani.
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 

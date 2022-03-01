@@ -1,7 +1,7 @@
 
-## Welcome to my resume
+## Tervetuloa
 
-You can use the [editor on GitHub](https://github.com/ottovilo/ottovilo.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Täältä sivulta löydät lisätietoja minusta ja [Web-CV](https://ottovilo.github.io/)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
